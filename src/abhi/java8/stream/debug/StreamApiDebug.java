@@ -21,5 +21,7 @@ public class StreamApiDebug {
                 .collect(Collectors.toList());
 
         System.out.println(resultList);
+
+//        To see Plugin Option in IntelliJ is "CTRL+ALT+s" ==> Java Stream Debug bundled
     }
 }
